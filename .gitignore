@@ -1,0 +1,17 @@
+# GROMACS / MD files
+*.trr
+*.xtc
+*.edr
+*.log
+*.cpt
+*.tpr
+
+# Output data
+*.xvg
+
+# Temporary / backups
+*~
+*.bak
+
+# OS junk
+*.Zone.Identifier
