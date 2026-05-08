@@ -204,7 +204,7 @@ GitHub: [@Om-Physics](https://github.com/Om-Physics)
 
 ---
 
-## 📚 References & Resources
+## References & Resources
 
 - [GROMACS Manual](https://manual.gromacs.org/)
 - [GROMACS Tutorials by Justin Lemkul](http://www.mdtutorials.com/gmx/)
