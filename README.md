@@ -100,7 +100,7 @@ Ensure the following tools are installed before running simulations:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
